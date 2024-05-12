@@ -42,7 +42,7 @@ body {
   transform: scale(0.9);
 }
 #lyrics {
-  font-size: 28px;
+  font-size: 10px;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   color: white;
   position: absolute;
